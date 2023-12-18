@@ -8,3 +8,4 @@ a fö probléma hogy a jelenlegi szerkezetel a "mozgás " kivételezhetetlen és
 
 
 # megoldási lehetöségek:
+állapot tervezési elv
